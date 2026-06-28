@@ -1,0 +1,5 @@
+Patient Name,Age,Gender,Prediction,Confidence (%),Date,Time
+Raju,25,Male,No Brain Tumor,,28-06-2026,17:39:13
+Raju,25,Male,Brain Tumor Detected,,28-06-2026,17:41:10
+Raja,36,Male,Brain Tumor Detected,,28-06-2026,17:58:01
+Raja,36,Male,Brain Tumor Detected,N/A,28-06-2026,18:12:02
